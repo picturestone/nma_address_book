@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="editTextFirstName">First Name</string>
+    <string name="textViewContactDetails">Contact Details</string>
+    <string name="editTextLastName">Last Name</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonAdd">Add</string>
+</resources>
